@@ -13,11 +13,15 @@ software provides.
 - :chart_with_upwards_trend: I plan to learn: Machine Learning
 - :mag: My passions are soccer (especially premier league), cooking, wellness & spending time with friends, family and my dog
 - :envelope: Email me: just.m.halden@gmail.com
-- :camera: Socials:
+
+## Socials :camera:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matt-halden" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 15px;"/>
+    </a>    
+    <a href="https://github.com/matt-halden" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="40"/>
     </a>
 </p>
 
