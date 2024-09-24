@@ -13,7 +13,7 @@ software provides.
 - :chart_with_upwards_trend: I plan to learn: Machine Learning
 - :mag: My passions are soccer (especially premier league), cooking, wellness & spending time with friends, family and my dog
 - :envelope: Email me: just.m.halden@gmail.com
-- :camera_with_flash: Socials:
+- :camera: Socials:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matt-halden" target="_blank">
