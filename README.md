@@ -18,10 +18,10 @@ software provides.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matt-halden" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 35px; display: inline-block; vertical-align: middle;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 35px; display: block; vertical-align: middle;"/>
     </a>    
     <a href="https://github.com/matt-halden" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="40" style="display: inline-block; vertical-align: middle;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="40" style="display: block; vertical-align: middle;"/>
     </a>
 </p>
 
