@@ -9,7 +9,7 @@ My foundation in electrical engineering taught me how things are (literally)
 built from the ground up while my current experience opened my path to the endless innovation 
 software provides. 
 
-- :pencil: I'm working on: [A Python Mega Course] (https://www.udemy.com/course/the-python-mega-course/)
+- :pencil: I'm working on: [A Python Mega Course](https://www.udemy.com/course/the-python-mega-course/)
 - :chart_with_upwards_trend: I plan to learn: Machine Learning
 - :mag: My passions are soccer (especially premier league), cooking, wellness & spending time with friends, family and my dog when I can
 - :envelope: Email me: just.m.halden@gmail.com
