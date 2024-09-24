@@ -18,7 +18,7 @@ software provides.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matt-halden" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 15px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 35px;"/>
     </a>    
     <a href="https://github.com/matt-halden" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="40"/>
